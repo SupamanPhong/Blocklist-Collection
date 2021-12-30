@@ -1,0 +1,13 @@
+{
+  "domain": {
+    "Advertising-Lists": {
+      "adway": "https://adaway.org/hosts.txt",
+      "adguard": "https://v.firebog.net/hosts/AdguardDNS.txt",
+      "admiral": "https://v.firebog.net/hosts/Admiral.txt"
+    },
+    "Malicious-Lists": {
+      "antimalware": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
+    },
+    "Whitelist": {}
+  }
+}
