@@ -1,9 +1,16 @@
 {
   "domain": {
     "Advertising-Lists": {
-      "adway": "https://adaway.org/hosts.txt",
-      "adguard": "https://v.firebog.net/hosts/AdguardDNS.txt",
-      "admiral": "https://v.firebog.net/hosts/Admiral.txt"
+      "Adway": "https://adaway.org/hosts.txt",
+      "Adguard": "https://v.firebog.net/hosts/AdguardDNS.txt",
+      "Admiral": "https://v.firebog.net/hosts/Admiral.txt",
+      "AnudeepND": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+      "Disconnect": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+      "Easylist": "https://v.firebog.net/hosts/Easylist.txt",
+      "Yoyo": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+      "FadeMind": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+      "hostsVN": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+      "Adwars":"https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
     },
     "Malicious-Lists": {
       "antimalware": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
