@@ -10,7 +10,8 @@
       "Yoyo": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
       "FadeMind": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
       "hostsVN": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
-      "Adwars":"https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
+      "Adwars": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+      "Sample": "https://raw.githubusercontent.com/SupamanPhong/Blocklist-Collection/main/samplefile.txt"
     },
     "Malicious-Lists": {
       "antimalware": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
